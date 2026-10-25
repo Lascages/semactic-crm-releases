@@ -1,0 +1,23 @@
+{
+  "version": "0.1.4",
+  "notes": "## [0.1.4] — 2026-10-25\n\nPremière version réellement distribuée (les 0.1.0 à 0.1.3 n'ont jamais été publiées : leur compilation automatique a échoué avant publication).\n\n### Corrigé\n- Chaîne de publication : les installeurs macOS et Windows se compilent et se publient correctement, avec ou sans certificat de signature.",
+  "pub_date": "2026-10-25T14:43:24Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklDU2Q0NkhKUUlBZStuTUQycEV6ZjFySzMxZ3FZdzhnZkJNR1UxQlZ2ZXhwcHRncURaWkJSTk04bTN2R1prcmFKU0ppTDk4cmRPZEs2UVhGMnc5N2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM5Mzc2CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNAp6RzR6bjBHOGxiTnZXMFJvWXk1c2NhOFNScE1OZkNCNjJRdUw4bmo2MUhENFlIMjRwMWRPZ0ZIeTVUTGozMDkxeTVLUXRQMGN0ajJNUzh6Mk1lV2xDUT09Cg==",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.1.4/Semactic-CRM-macOS.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklDU2Q0NkhKUUlBZStuTUQycEV6ZjFySzMxZ3FZdzhnZkJNR1UxQlZ2ZXhwcHRncURaWkJSTk04bTN2R1prcmFKU0ppTDk4cmRPZEs2UVhGMnc5N2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM5Mzc2CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNAp6RzR6bjBHOGxiTnZXMFJvWXk1c2NhOFNScE1OZkNCNjJRdUw4bmo2MUhENFlIMjRwMWRPZ0ZIeTVUTGozMDkxeTVLUXRQMGN0ajJNUzh6Mk1lV2xDUT09Cg==",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.1.4/Semactic-CRM-macOS.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklDU2Q0NkhKUUlBZStuTUQycEV6ZjFySzMxZ3FZdzhnZkJNR1UxQlZ2ZXhwcHRncURaWkJSTk04bTN2R1prcmFKU0ppTDk4cmRPZEs2UVhGMnc5N2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM5Mzc2CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNAp6RzR6bjBHOGxiTnZXMFJvWXk1c2NhOFNScE1OZkNCNjJRdUw4bmo2MUhENFlIMjRwMWRPZ0ZIeTVUTGozMDkxeTVLUXRQMGN0ajJNUzh6Mk1lV2xDUT09Cg==",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.1.4/Semactic-CRM-macOS.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklDU2Q0NkhKUUlBZStuTUQycEV6ZjFySzMxZ3FZdzhnZkJNR1UxQlZ2ZXhwcHRncURaWkJSTk04bTN2R1prcmFKU0ppTDk4cmRPZEs2UVhGMnc5N2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM5Mzc2CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNAp6RzR6bjBHOGxiTnZXMFJvWXk1c2NhOFNScE1OZkNCNjJRdUw4bmo2MUhENFlIMjRwMWRPZ0ZIeTVUTGozMDkxeTVLUXRQMGN0ajJNUzh6Mk1lV2xDUT09Cg==",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.1.4/Semactic-CRM-macOS.app.tar.gz"
+    }
+  }
+}

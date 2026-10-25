@@ -11,12 +11,6 @@
 
 </div>
 
-<!-- NOT-RELEASED:START -->
-> [!IMPORTANT]
-> **Première version en cours de publication** : les liens de téléchargement ci-dessus répondront « 404 » jusqu'à la publication de la v0.1.0
-> (la compilation macOS et Windows tourne sur GitHub Actions). Cette note disparaît toute seule dès que la version est en ligne.
-<!-- NOT-RELEASED:END -->
-
 ---
 
 > [!NOTE]
@@ -37,7 +31,7 @@
 <!-- VERSIONS:START -->
 | Version | Canal | Date |
 |---|---|---|
-| _aucune version publiée pour l'instant_ | | |
+| [0.1.4](https://github.com/Lascages/semactic-crm-releases/releases/tag/v0.1.4) | Stable | 2026-10-25 |
 <!-- VERSIONS:END -->
 
 Détail de chaque version : [CHANGELOG.md](CHANGELOG.md).
