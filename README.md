@@ -11,6 +11,12 @@
 
 </div>
 
+<!-- NOT-RELEASED:START -->
+> [!IMPORTANT]
+> **Première version en cours de publication** : les liens de téléchargement ci-dessus répondront « 404 » jusqu'à la publication de la v0.1.0
+> (la compilation macOS et Windows tourne sur GitHub Actions). Cette note disparaît toute seule dès que la version est en ligne.
+<!-- NOT-RELEASED:END -->
+
 ---
 
 > [!NOTE]
