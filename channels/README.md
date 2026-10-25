@@ -1,0 +1,1 @@
+Les fichiers de ce dossier (`stable.json`, `beta.json`) sont générés par la CI du dépôt privé à chaque release et lus par l'application pour proposer les mises à jour. Ne pas modifier à la main (sauf retour arrière : `git revert`).
