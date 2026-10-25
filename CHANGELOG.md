@@ -1,5 +1,10 @@
 # Journal des modifications
 
+## [0.1.5] — 2026-10-25
+
+### Modifié
+- Version de contrôle de la mise à jour automatique : aucune nouveauté visible.
+
 ## [0.1.4] — 2026-10-25
 
 Première version réellement distribuée (les 0.1.0 à 0.1.3 n'ont jamais été publiées : leur compilation automatique a échoué avant publication).
