@@ -1,23 +1,23 @@
 {
-  "version": "0.1.5",
-  "notes": "## [0.1.5] — 2026-10-25\n\n### Modifié\n- Version de contrôle de la mise à jour automatique : aucune nouveauté visible.",
-  "pub_date": "2026-10-25T20:17:08Z",
+  "version": "0.2.0",
+  "notes": "## [0.2.0] — 2026-10-26\n\nLe CRM complet dans l'application : plus besoin d'aller sur le site.\n\n### Ajouté\n- **Le CRM complet dans l'application** : les pages, listes, fiches, tableaux de bord, tickets, projets, prospection, Drive… du CRM web, avec les mêmes droits, ouvertes directement dans l'application (plus besoin d'aller sur le site).\n- **Menu du profil** : au survol de votre nom (en bas du menu de gauche) : Mon profil, Hub équipe, Slide, Réglages de l'app et Déconnexion (le bouton du bas du menu de gauche disparaît). La bannière de mise à jour et les offres Slide reçues s'affichent sur toutes les pages.\n- **Fichiers** : envoi (documents, pièces jointes), téléchargement et « Enregistrer sous » du système (PDF, exports).\n- **Partager** : bouton sur chaque page pour copier le lien web (lisible par tous), copier le lien de l'app (ouvre l'app au bon endroit) ou ouvrir dans le navigateur.\n- Flux en direct (chat, agent de prospection), liens `mailto:` et `tel:`, glisser-déposer de fichiers.\n\n### Corrigé\n- Le texte se sélectionne et se copie maintenant partout dans l'application.",
+  "pub_date": "2026-10-25T23:40:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNkQvNFd4b29KTys5L29FencxeGE3TmF6OXh0WjI5dGhIbkJ6MEkxbEdNUmZRNkZnMXJOekRLc3NTK2czeHE2aDVWQ2xvbkI5TnhKMG1nVnR0VTFjNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU5NDE3CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpTNGRjZHVUSXFFWDdUaUMycVJJSmRKZFhCUTJrUUJRMlUvSExJMlBSdTVLQ1Q0OVkzMXk4dTRmbms2S3U1b3lLS3htdDNEeFNySzJxNnU2YjBGUTZCUT09Cg==",
-      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.1.5/Semactic-CRM-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklKOHlwR1FLaEwvdmVXN0I1WjdBVEJ5L2U0RHQwb3NWb1NReDgrSCsxZlRLandzT3VCbnpSRS9DZ0xwUWFXdlQrRHV3UjNWZS9YVkdnc0wrdUdMUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTcxNTg1CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAptbEQwSWRCcUxOQWZ6QTNqV3c5eG8yMG5oL1BlOHAyRmMyNm5YUkJSS21XNklqTkRxbXhCS1I1NkZjdXZnUm84TFhpMmQ3YmFJZEhHYXBmNHUrbXREUT09Cg==",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.0/Semactic-CRM-macOS.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNkQvNFd4b29KTys5L29FencxeGE3TmF6OXh0WjI5dGhIbkJ6MEkxbEdNUmZRNkZnMXJOekRLc3NTK2czeHE2aDVWQ2xvbkI5TnhKMG1nVnR0VTFjNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU5NDE3CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpTNGRjZHVUSXFFWDdUaUMycVJJSmRKZFhCUTJrUUJRMlUvSExJMlBSdTVLQ1Q0OVkzMXk4dTRmbms2S3U1b3lLS3htdDNEeFNySzJxNnU2YjBGUTZCUT09Cg==",
-      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.1.5/Semactic-CRM-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklKOHlwR1FLaEwvdmVXN0I1WjdBVEJ5L2U0RHQwb3NWb1NReDgrSCsxZlRLandzT3VCbnpSRS9DZ0xwUWFXdlQrRHV3UjNWZS9YVkdnc0wrdUdMUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTcxNTg1CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAptbEQwSWRCcUxOQWZ6QTNqV3c5eG8yMG5oL1BlOHAyRmMyNm5YUkJSS21XNklqTkRxbXhCS1I1NkZjdXZnUm84TFhpMmQ3YmFJZEhHYXBmNHUrbXREUT09Cg==",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.0/Semactic-CRM-macOS.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNkQvNFd4b29KTys5L29FencxeGE3TmF6OXh0WjI5dGhIbkJ6MEkxbEdNUmZRNkZnMXJOekRLc3NTK2czeHE2aDVWQ2xvbkI5TnhKMG1nVnR0VTFjNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU5NDE3CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpTNGRjZHVUSXFFWDdUaUMycVJJSmRKZFhCUTJrUUJRMlUvSExJMlBSdTVLQ1Q0OVkzMXk4dTRmbms2S3U1b3lLS3htdDNEeFNySzJxNnU2YjBGUTZCUT09Cg==",
-      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.1.5/Semactic-CRM-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklKOHlwR1FLaEwvdmVXN0I1WjdBVEJ5L2U0RHQwb3NWb1NReDgrSCsxZlRLandzT3VCbnpSRS9DZ0xwUWFXdlQrRHV3UjNWZS9YVkdnc0wrdUdMUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTcxNTg1CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAptbEQwSWRCcUxOQWZ6QTNqV3c5eG8yMG5oL1BlOHAyRmMyNm5YUkJSS21XNklqTkRxbXhCS1I1NkZjdXZnUm84TFhpMmQ3YmFJZEhHYXBmNHUrbXREUT09Cg==",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.0/Semactic-CRM-macOS.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNkQvNFd4b29KTys5L29FencxeGE3TmF6OXh0WjI5dGhIbkJ6MEkxbEdNUmZRNkZnMXJOekRLc3NTK2czeHE2aDVWQ2xvbkI5TnhKMG1nVnR0VTFjNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU5NDE3CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpTNGRjZHVUSXFFWDdUaUMycVJJSmRKZFhCUTJrUUJRMlUvSExJMlBSdTVLQ1Q0OVkzMXk4dTRmbms2S3U1b3lLS3htdDNEeFNySzJxNnU2YjBGUTZCUT09Cg==",
-      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.1.5/Semactic-CRM-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklKOHlwR1FLaEwvdmVXN0I1WjdBVEJ5L2U0RHQwb3NWb1NReDgrSCsxZlRLandzT3VCbnpSRS9DZ0xwUWFXdlQrRHV3UjNWZS9YVkdnc0wrdUdMUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTcxNTg1CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAptbEQwSWRCcUxOQWZ6QTNqV3c5eG8yMG5oL1BlOHAyRmMyNm5YUkJSS21XNklqTkRxbXhCS1I1NkZjdXZnUm84TFhpMmQ3YmFJZEhHYXBmNHUrbXREUT09Cg==",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.0/Semactic-CRM-macOS.app.tar.gz"
     }
   }
 }
