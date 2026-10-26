@@ -1,5 +1,16 @@
 # Journal des modifications
 
+## [0.2.1] — 2026-10-26
+
+### Corrigé
+- **Slide** : chaque utilisateur a ses propres clés d'appareil sur une même machine (deux collègues sur un même Mac ne se bloquent plus avec « appareil refusé »), et l'inscription n'est plus retentée en rafale au démarrage.
+- **Trousseau** : une seule demande de code au lieu de trois (les secrets sont regroupés dans un seul élément ; les anciens sont repris automatiquement).
+- **Défilement** du tableau des leads : barres de défilement natives du système (le défilement saccadait dans l'application).
+
+### Ajouté
+- **Lecture hors ligne** : les pages que vous avez déjà ouvertes restent consultables sans connexion (copie locale chiffrée, 7 jours) ; un bandeau indique que les données sont une copie locale.
+- **Journal des erreurs de l'application** (`~/Library/Logs/com.semactic.crm/ui-errors.log`) : une page qui plante laisse une trace lisible pour le support.
+
 ## [0.2.1-beta.1] — 2026-10-26
 
 Version de test (canal bêta) : Slide et trousseau.
