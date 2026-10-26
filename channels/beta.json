@@ -1,23 +1,23 @@
 {
-  "version": "0.2.0",
-  "notes": "## [0.2.0] — 2026-10-26\n\nLe CRM complet dans l'application : plus besoin d'aller sur le site.\n\n### Ajouté\n- **Le CRM complet dans l'application** : les pages, listes, fiches, tableaux de bord, tickets, projets, prospection, Drive… du CRM web, avec les mêmes droits, ouvertes directement dans l'application (plus besoin d'aller sur le site).\n- **Menu du profil** : au survol de votre nom (en bas du menu de gauche) : Mon profil, Hub équipe, Slide, Réglages de l'app et Déconnexion (le bouton du bas du menu de gauche disparaît). La bannière de mise à jour et les offres Slide reçues s'affichent sur toutes les pages.\n- **Fichiers** : envoi (documents, pièces jointes), téléchargement et « Enregistrer sous » du système (PDF, exports).\n- **Partager** : bouton sur chaque page pour copier le lien web (lisible par tous), copier le lien de l'app (ouvre l'app au bon endroit) ou ouvrir dans le navigateur.\n- Flux en direct (chat, agent de prospection), liens `mailto:` et `tel:`, glisser-déposer de fichiers.\n\n### Corrigé\n- Le texte se sélectionne et se copie maintenant partout dans l'application.",
-  "pub_date": "2026-10-25T23:40:00Z",
+  "version": "0.2.1-beta.1",
+  "notes": "## [0.2.1-beta.1] — 2026-10-26\n\nVersion de test (canal bêta) : Slide et trousseau.\n\n### Corrigé\n- **Slide** : chaque utilisateur a ses propres clés d'appareil sur une même machine (deux collègues sur un même Mac ne se bloquent plus avec « appareil refusé »), et l'inscription n'est plus retentée en rafale au démarrage.\n- **Trousseau** : une seule demande de code au lieu de trois (les secrets sont regroupés dans un seul élément ; les anciens sont repris automatiquement, vous devrez peut-être confirmer une fois).",
+  "pub_date": "2026-10-26T00:07:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklKOHlwR1FLaEwvdmVXN0I1WjdBVEJ5L2U0RHQwb3NWb1NReDgrSCsxZlRLandzT3VCbnpSRS9DZ0xwUWFXdlQrRHV3UjNWZS9YVkdnc0wrdUdMUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTcxNTg1CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAptbEQwSWRCcUxOQWZ6QTNqV3c5eG8yMG5oL1BlOHAyRmMyNm5YUkJSS21XNklqTkRxbXhCS1I1NkZjdXZnUm84TFhpMmQ3YmFJZEhHYXBmNHUrbXREUT09Cg==",
-      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.0/Semactic-CRM-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNkpDcTFvci9ReXlLeUR6RWQ3MHlwMUxPbUV1QmlGTDdiSVF4cjhmcUpPUEp2aWl0cUZhcy9YQ1p6WDYvbzZYQzdtUys1Wk9OT1p4RFVoaENoL1ZodWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTczMjI0CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMS1iZXRhLjEKd0tTa1oyaVFNMlUzNU4ybGN3Wlc5OXh0YkF1NHdFdC9BbklsRUg2clByQktETk9KNldaemIyNDNmSmoybHcrVjlVVUJLQURZWXZhTVpvaVdxVWwwRHc9PQo=",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.1-beta.1/Semactic-CRM-macOS.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklKOHlwR1FLaEwvdmVXN0I1WjdBVEJ5L2U0RHQwb3NWb1NReDgrSCsxZlRLandzT3VCbnpSRS9DZ0xwUWFXdlQrRHV3UjNWZS9YVkdnc0wrdUdMUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTcxNTg1CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAptbEQwSWRCcUxOQWZ6QTNqV3c5eG8yMG5oL1BlOHAyRmMyNm5YUkJSS21XNklqTkRxbXhCS1I1NkZjdXZnUm84TFhpMmQ3YmFJZEhHYXBmNHUrbXREUT09Cg==",
-      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.0/Semactic-CRM-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNkpDcTFvci9ReXlLeUR6RWQ3MHlwMUxPbUV1QmlGTDdiSVF4cjhmcUpPUEp2aWl0cUZhcy9YQ1p6WDYvbzZYQzdtUys1Wk9OT1p4RFVoaENoL1ZodWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTczMjI0CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMS1iZXRhLjEKd0tTa1oyaVFNMlUzNU4ybGN3Wlc5OXh0YkF1NHdFdC9BbklsRUg2clByQktETk9KNldaemIyNDNmSmoybHcrVjlVVUJLQURZWXZhTVpvaVdxVWwwRHc9PQo=",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.1-beta.1/Semactic-CRM-macOS.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklKOHlwR1FLaEwvdmVXN0I1WjdBVEJ5L2U0RHQwb3NWb1NReDgrSCsxZlRLandzT3VCbnpSRS9DZ0xwUWFXdlQrRHV3UjNWZS9YVkdnc0wrdUdMUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTcxNTg1CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAptbEQwSWRCcUxOQWZ6QTNqV3c5eG8yMG5oL1BlOHAyRmMyNm5YUkJSS21XNklqTkRxbXhCS1I1NkZjdXZnUm84TFhpMmQ3YmFJZEhHYXBmNHUrbXREUT09Cg==",
-      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.0/Semactic-CRM-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNkpDcTFvci9ReXlLeUR6RWQ3MHlwMUxPbUV1QmlGTDdiSVF4cjhmcUpPUEp2aWl0cUZhcy9YQ1p6WDYvbzZYQzdtUys1Wk9OT1p4RFVoaENoL1ZodWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTczMjI0CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMS1iZXRhLjEKd0tTa1oyaVFNMlUzNU4ybGN3Wlc5OXh0YkF1NHdFdC9BbklsRUg2clByQktETk9KNldaemIyNDNmSmoybHcrVjlVVUJLQURZWXZhTVpvaVdxVWwwRHc9PQo=",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.1-beta.1/Semactic-CRM-macOS.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNklKOHlwR1FLaEwvdmVXN0I1WjdBVEJ5L2U0RHQwb3NWb1NReDgrSCsxZlRLandzT3VCbnpSRS9DZ0xwUWFXdlQrRHV3UjNWZS9YVkdnc0wrdUdMUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTcxNTg1CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAptbEQwSWRCcUxOQWZ6QTNqV3c5eG8yMG5oL1BlOHAyRmMyNm5YUkJSS21XNklqTkRxbXhCS1I1NkZjdXZnUm84TFhpMmQ3YmFJZEhHYXBmNHUrbXREUT09Cg==",
-      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.0/Semactic-CRM-macOS.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUUlKdUhnZUdVNkpDcTFvci9ReXlLeUR6RWQ3MHlwMUxPbUV1QmlGTDdiSVF4cjhmcUpPUEp2aWl0cUZhcy9YQ1p6WDYvbzZYQzdtUys1Wk9OT1p4RFVoaENoL1ZodWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTczMjI0CWZpbGU6U2VtYWN0aWMgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMS1iZXRhLjEKd0tTa1oyaVFNMlUzNU4ybGN3Wlc5OXh0YkF1NHdFdC9BbklsRUg2clByQktETk9KNldaemIyNDNmSmoybHcrVjlVVUJLQURZWXZhTVpvaVdxVWwwRHc9PQo=",
+      "url": "https://github.com/Lascages/semactic-crm-releases/releases/download/v0.2.1-beta.1/Semactic-CRM-macOS.app.tar.gz"
     }
   }
 }

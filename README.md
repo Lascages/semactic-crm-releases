@@ -31,6 +31,7 @@
 <!-- VERSIONS:START -->
 | Version | Canal | Date |
 |---|---|---|
+| [0.2.1-beta.1](https://github.com/Lascages/semactic-crm-releases/releases/tag/v0.2.1-beta.1) | Bêta | 2026-10-26 |
 | [0.2.0](https://github.com/Lascages/semactic-crm-releases/releases/tag/v0.2.0) | Stable | 2026-10-26 |
 | [0.1.5](https://github.com/Lascages/semactic-crm-releases/releases/tag/v0.1.5) | Stable | 2026-10-25 |
 | [0.1.4](https://github.com/Lascages/semactic-crm-releases/releases/tag/v0.1.4) | Stable | 2026-10-25 |

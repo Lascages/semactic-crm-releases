@@ -1,5 +1,13 @@
 # Journal des modifications
 
+## [0.2.1-beta.1] — 2026-10-26
+
+Version de test (canal bêta) : Slide et trousseau.
+
+### Corrigé
+- **Slide** : chaque utilisateur a ses propres clés d'appareil sur une même machine (deux collègues sur un même Mac ne se bloquent plus avec « appareil refusé »), et l'inscription n'est plus retentée en rafale au démarrage.
+- **Trousseau** : une seule demande de code au lieu de trois (les secrets sont regroupés dans un seul élément ; les anciens sont repris automatiquement, vous devrez peut-être confirmer une fois).
+
 ## [0.2.0] — 2026-10-26
 
 Le CRM complet dans l'application : plus besoin d'aller sur le site.
